@@ -25,13 +25,13 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   const messages = [
     'Esta flor🌷',
     'es para usted🩷',
-    'Tía Linda💗',
-    'La amo🩷 y', 
-    'La quiero muchisimo💗',
+    'Hermanita 💗',
+    'Te amo🩷 y', 
+    'Te quiero muchisimo💗',
     'Gracias por tanto🩷',
-    'Tía Linda 💗',
+    'Hermanita 💗',
     'Dios siempre🩷',
-    'la bendiga💗',
+    'Te bendiga💗',
     '¡Feliz dia 🩷🌷!'
   ];
   
